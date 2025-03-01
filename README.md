@@ -1,6 +1,6 @@
-# Simple Telegram Bot
+# Simple Termux Bot
 
-This is a simple Telegram bot built with Node.js. It allows you to send messages to a specified phone number. Follow the instructions below to set up and run the bot on your system.
+This is a simple Termux bot built with Node.js. It allows you to send messages to a specified phone number. Follow the instructions below to set up and run the bot on your system.
 
 ## Requirements
 
