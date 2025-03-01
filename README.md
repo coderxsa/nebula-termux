@@ -23,12 +23,12 @@ This is a simple Termux bot built with Node.js. It allows you to send messages t
 
 3. Clone the GitHub repository into your local machine:
     ```
-    git clone https://github.com/coderxsa/termux-nebula.git
+    git clone https://github.com/coderxsa/nebula-termux.git
     ```
 
 4. Change into the directory of the cloned repository:
     ```
-    cd termux-nebula
+    cd nebula-termux
     ```
 
 5. Install the necessary dependencies for the project defined in `package.json`:
@@ -45,7 +45,7 @@ This is a simple Termux bot built with Node.js. It allows you to send messages t
 
 - If Termux disconnects, you can simply relink the bot by running the following commands:
     ```
-    cd termux-nebula
+    cd nebula-termux
     node index.js
     ```
 
@@ -54,8 +54,8 @@ This is a simple Termux bot built with Node.js. It allows you to send messages t
 
 - Reinstall the bot:
     ```
-    git clone https://github.com/coderxsa/termux-nebula.git
-    cd termux-nebula
+    git clone https://github.com/coderxsa/nebula-termux.git
+    cd nebula-termux
     npm install
     node index.js
     ```
